@@ -1,0 +1,48 @@
+article
+{
+border:1px #dddddd solid;
+}
+#hot-tune{
+text-align:center;
+background-color:;
+margin:0px;
+padding:0px;
+}
+#hot-tune img{
+border:solid #999 1px; 
+background-color:#CCC;
+padding:3%;
+}
+#mini-add
+{
+list-style:none; 
+float:left; 
+height:auto;
+text-align:center;
+padding-right:2%;
+padding-left:0px;
+}
+#mini-add p{
+text-align:center;
+}#mini-add img{
+border-radius:50%;
+background-color:#CCC;
+margin:3%;
+}
+
+#footer{
+text-align:center;
+width:87%;
+margin:auto;
+height:auto;
+background-color:#666666;
+text-align:center;
+}
+#footer p{
+color:#FFFFFF;
+margin-top:8%;
+text-align:justify;
+}
+#form{
+padding-top:20px;
+}
